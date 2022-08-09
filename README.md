@@ -1,2 +1,2 @@
 # xlsfiles
-Test respository for commiting and studying xlsfiles changes
+Obsolete respository for commiting and studying xlsfiles changes
